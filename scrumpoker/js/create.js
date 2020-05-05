@@ -1,6 +1,8 @@
+const createClass = document.querySelector('.button');
+
 function cadatrar() {
-    var novasala = document.getElementById('novasala').value;
-    var qtdsala = document.getElementById('qtdsala').value;
+    const novasala = document.getElementById('novasala').value;
+    const qtdsala = document.getElementById('qtdsala').value;
 
     if (novasala == "" || qtdsala == "") {
         alert("Preencha todos os campos");
@@ -20,3 +22,5 @@ function cadatrar() {
 
     }
 }
+
+createClass.addEventListener('submit', cadatrar);

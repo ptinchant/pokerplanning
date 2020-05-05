@@ -1,8 +1,8 @@
 const createSession = document.querySelector('.button');
 
 function entrar() {
-    var usuario = document.getElementById('usuario').value;
-    var sala = document.getElementById('sala').value;
+    const usuario = document.getElementById('usuario').value;
+    const sala = document.getElementById('sala').value;
 
     if (usuario == "" || sala == "") {
         alert("Preencha todos os campos");
