@@ -1,0 +1,16 @@
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.Core.deps.json
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.Core.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.Core.pdb
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.Infrastructure.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.Models.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.pdb
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.Infrastructure.pdb
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\bin\Debug\netcoreapp3.1\PokerPlanning.Models.pdb
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\obj\Debug\netcoreapp3.1\PokerPlanning.Core.csprojAssemblyReference.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\obj\Debug\netcoreapp3.1\PokerPlanning.Core.csproj.CoreCompileInputs.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\obj\Debug\netcoreapp3.1\PokerPlanning.Core.AssemblyInfoInputs.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\obj\Debug\netcoreapp3.1\PokerPlanning.Core.AssemblyInfo.cs
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\obj\Debug\netcoreapp3.1\PokerPlanning.Core.csproj.CopyComplete
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\obj\Debug\netcoreapp3.1\PokerPlanning.Core.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Core\obj\Debug\netcoreapp3.1\PokerPlanning.Core.pdb

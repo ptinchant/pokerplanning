@@ -1,0 +1,12 @@
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\bin\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.deps.json
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\bin\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\obj\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.csprojAssemblyReference.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\obj\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\obj\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.AssemblyInfo.cs
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\bin\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.pdb
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\bin\Debug\netcoreapp3.1\PokerPlanning.Models.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\bin\Debug\netcoreapp3.1\PokerPlanning.Models.pdb
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\obj\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\obj\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.csproj.CopyComplete
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\obj\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.CrossCutting\obj\Debug\netcoreapp3.1\PokerPlanning.CrossCutting.pdb

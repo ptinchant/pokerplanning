@@ -1,0 +1,9 @@
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\bin\Debug\netcoreapp3.1\PokerPlanning.Models.deps.json
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\bin\Debug\netcoreapp3.1\PokerPlanning.Models.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\bin\Debug\netcoreapp3.1\PokerPlanning.Models.pdb
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\obj\Debug\netcoreapp3.1\PokerPlanning.Models.csprojAssemblyReference.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\obj\Debug\netcoreapp3.1\PokerPlanning.Models.csproj.CoreCompileInputs.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\obj\Debug\netcoreapp3.1\PokerPlanning.Models.AssemblyInfoInputs.cache
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\obj\Debug\netcoreapp3.1\PokerPlanning.Models.AssemblyInfo.cs
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\obj\Debug\netcoreapp3.1\PokerPlanning.Models.dll
+C:\Users\pierre.pinto\Desktop\Projetos\PokerPlanning\PokerPlanning\PokerPlanning.Models\obj\Debug\netcoreapp3.1\PokerPlanning.Models.pdb
